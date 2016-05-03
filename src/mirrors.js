@@ -11,5 +11,6 @@ module.exports = [
     'https://www.google.com.hk/webhp?hl=zh-CN',
     'https://www.ggss.cf/?gws_rd=ssl',
     'https://ma.liu.ba/',
-    'http://libingjie.com/'
+    'http://libingjie.com/',
+    'http://www.gglink.pw/'
 ];
