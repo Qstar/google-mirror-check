@@ -9,8 +9,8 @@ module.exports = [
     'https://gg.kfd.me/',
     'https://ggg.eeload.com/',
     'https://www.iamgg.pw/',
-    'https://www.google.com.hk/webhp?hl=zh-CN',
-    'https://www.ggss.cf/?gws_rd=ssl',
+    'https://www.ggss.cf/',
     'https://ma.liu.ba/',
-    'http://libingjie.com/'
+    'http://libingjie.com/',
+    'https://www.google.com.hk/'
 ];
