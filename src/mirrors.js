@@ -11,6 +11,5 @@ module.exports = [
     'https://www.iamgg.pw/',
     'https://www.ggss.cf/',
     'https://ma.liu.ba/',
-    'http://libingjie.com/',
     'https://www.google.com.hk/'
 ];
